@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuktiGit
 - 👀 I’m interested in everything 
 - 🌱 I’m currently learning CSE Btech
-- 💞️ I’m looking to collaborate on projects related to nlp
+- 💞️ I’m looking to collaborate on projects related IOT and machine learning
 - 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/yukti-agarwal-012020139
 
 <!---
